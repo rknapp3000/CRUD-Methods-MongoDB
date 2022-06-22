@@ -1,0 +1,15 @@
+{
+  "name": "lab-4",
+  "version": "1.0.0",
+  "description": "Lab 4 using Mongo DB and practicing asyncronous functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ryan Knapp 10473777",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  }
+}
